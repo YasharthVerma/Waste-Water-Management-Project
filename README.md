@@ -17,8 +17,8 @@ This is a conceptual design showing how solar energy can be harnessed and water 
 4. **Second Tank:**
     - A raised tank to store steam and convert it into water and then distribute it accordingly.
     
-5. **Heating Wire:**
-    - There's a wire specifically for heating purposes, which could be part of a system to generate additional heat energy.
+5. **Heating Plate:**
+    - There's a plate specifically for heating purposes, which concentrates the power of solar energy.
     
 6. **Electricity Generation and Sensors:**
     - At the far right, the design shows a setup for generating electricity and an "electrical wire for sensors." This suggests monitoring or automating the system.
