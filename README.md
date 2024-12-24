@@ -47,4 +47,5 @@ An innovative system encompassing various technologies to utilize solar energy i
   ```https://imgur.com/a/E5Rw4Cw```
 
   © Yasharth Verma 2024. All rights reserved.
+
   Waste-Water Management Project © 2024 by Yasharth Verma is licensed under CC BY 4.0 
