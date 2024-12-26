@@ -43,7 +43,7 @@ An innovative system encompassing various technologies to utilize solar energy i
 
 # Drawings:
 ## Drawings and Blueprints
-
+These blueprints were provided by Mr_Future and all credits to him.
   ```https://imgur.com/a/E5Rw4Cw```
 
   © Yasharth Verma 2024. All rights reserved.
